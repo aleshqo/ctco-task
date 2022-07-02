@@ -1,1 +1,5 @@
 *.iml
+
+allure-results/
+build/
+target/
